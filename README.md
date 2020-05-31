@@ -10,13 +10,13 @@ The functionality of the app is pretty simple, the informations are fetched from
 
 ## Start Project
 
--npm
+• npm
 
 ```
 npm run serve
 ```
 
--yarn
+• yarn
 
 ```
 yarn serve
