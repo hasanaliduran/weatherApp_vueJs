@@ -18,6 +18,11 @@ yarn serve
 1. To use the application you can start by searching for a city in the text input.
 2. If you resize the window (or if you access it on your mobile phone) you'll see that the background will be animated according to the country's weather.
 
+## Used Technologies
+- HTML5
+- CSS3
+- Bootstrap
+- Vue
 
 ## About
 ```
@@ -26,8 +31,4 @@ The entire application is created in the root ("App.vue"), so I didn't use child
 The functionality of the app is pretty simple, the informations are fetched from an API and stored in an object.
 ```
 
-## Used Technologies
-- HTML5
-- CSS3
-- Bootstrap
-- Vue
+
