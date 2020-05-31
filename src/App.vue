@@ -127,15 +127,15 @@ body {
   transition: 0.4s;
 }
 #app.rain {
-  background-image: url("./assets/rain-bg.jpg");
+  background-image: url("./assets/rain.gif");
   transition: 0.4s;
 }
 #app.clouds {
-  background-image: url("./assets/clouds-bg.jpg");
+  background-image: url("./assets/clouds.gif");
   transition: 0.4s;
 }
 #app.clear {
-  background-image: url("./assets/clear-bg.jpg");
+  background-image: url("./assets/clear.gif");
   transition: 0.4s;
 }
 main {
@@ -237,17 +237,6 @@ main {
 @media only screen and (max-width: 520px) {
   .search-box .search-bar {
     width: 94%;
-  }
-}
-@media only screen and (max-width: 767px) {
-  #app.rain {
-    background-image: url("./assets/rain.gif");
-  }
-  #app.clouds {
-    background-image: url("./assets/clouds.gif");
-  }
-  #app.clear {
-    background-image: url("./assets/clear.gif");
   }
 }
 </style>
