@@ -247,7 +247,7 @@ main {
     background-image: url("./assets/clouds.gif");
   }
   #app.clear {
-    background-image: url("");
+    background-image: url("./assets/clear.gif");
   }
 }
 </style>
