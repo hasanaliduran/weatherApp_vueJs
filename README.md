@@ -1,4 +1,4 @@
-# vue-weather-app
+# VueJS Weather Web Application
 ## Start Project
 
 • npm
