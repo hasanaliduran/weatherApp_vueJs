@@ -16,7 +16,7 @@ yarn serve
 ## Functionalities
 
 1. To use the application you can start by searching for a city in the text input.
-2. If you resize the window (or if you access it on your mobile phone) you'll see that the background will be animated according to the country's weather.
+2. The background of the App will change according to the searched country's weather.
 
 ## Used Technologies
 - HTML5
