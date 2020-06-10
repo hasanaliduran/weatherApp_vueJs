@@ -1,4 +1,12 @@
 # VueJS Weather Web Application
+## Download the project
+
+• via Git
+
+```
+git clone <project_url>
+```
+
 ## Start Project
 
 • npm
