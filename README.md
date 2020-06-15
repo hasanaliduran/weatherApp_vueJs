@@ -27,8 +27,6 @@ yarn serve
 2. The background of the App will change according to the searched city's weather.
 
 ## Used Technologies
-- HTML5
-- CSS3
 - Bootstrap
 - Vue
 
@@ -38,5 +36,3 @@ Simple VueJS Weather Web App.
 The entire application is created in the root ("App.vue"), so this way I didn't have to use props or states.
 The functionality of the app is pretty simple, the informations are fetched from an API and stored in an object.
 ```
-
-
