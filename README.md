@@ -29,6 +29,7 @@ yarn serve
 ## Used Technologies
 - Bootstrap
 - Vue
+- Axios
 
 ## About
 ```
