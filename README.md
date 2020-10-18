@@ -1,4 +1,4 @@
-# VueJS Weather Web Application
+# Weather Forecast Web Application with Vue.Js
 ## Download the project
 
 • via Git
