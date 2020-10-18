@@ -10,6 +10,9 @@ git clone <project_url>
 ## Start Project
 
 • npm
+```
+npm install
+```
 
 ```
 npm run serve
