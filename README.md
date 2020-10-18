@@ -15,25 +15,6 @@ git clone <project_url>
 npm run serve
 ```
 
-• yarn
-
-```
-yarn serve
-```
-
-## Functionalities
-
-1. To use the application you can start by searching for a city in the text input.
-2. The background of the App will change according to the searched city's weather.
-
-## Used Technologies
-- Bootstrap
-- Vue
-- Axios
-
 ## About
-```
-Simple VueJS Weather Web App.
-The entire application is created in the root ("App.vue"), so this way I didn't have to use props or states.
-The functionality of the app is pretty simple, the informations are fetched from an API and stored in an object.
-```
+- An application that returns the weather forecast of the city typed in the search box. It also updates the background according to the current day's weather. In addition, you can see the weather for the next four days.
+- Weather data is taken from the API of the website www.metaweather.com. If the searched city is not a city whose information is provided by the API, the error woeid (Where On Earth ID) not found is displayed on the screen.
